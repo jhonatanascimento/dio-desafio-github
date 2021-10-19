@@ -1,6 +1,2 @@
-Receita de pão
+# Github/git challende - Eduzz Bootcamp (DIO)
 
-1- Aqui tem pão
-2- aqui tem galinha
-3 - pave
-4- unitudns
