@@ -1,0 +1,21 @@
+body{
+    background: cadetblue;
+    font-family: sans-serif;
+}
+
+section{
+    background: white;
+    padding: 10px;
+    margin: 50px auto;
+    width: 50%;
+    border-radius: 10px;
+    
+}
+
+section h1{
+    text-align: center;
+}
+
+li{
+    line-height: 50px;
+}
